@@ -1,2 +1,4 @@
 # Projects
-Personal Projects on timeseries and sentiment analysis
+Self Projects on timeseries and sentiment analysis
+
+
